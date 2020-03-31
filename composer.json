@@ -1,0 +1,13 @@
+{
+    "name": "sunoy14/js-lib",
+    "description": "My javascript library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Millo Lailang",
+            "email": "sunoy14socmed@gmail.com"
+        }
+    ],
+    "require": {}
+}
